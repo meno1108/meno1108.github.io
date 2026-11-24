@@ -1,3 +1,3 @@
 # meno1108.github.io
 
-# Testing
+meno1108.github.io/kindle_dash.html
