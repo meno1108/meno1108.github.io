@@ -1,3 +1,3 @@
 # meno1108.github.io
 
-<a>meno1108.github.io/kindle_dash.html</a>
+[Kindle Dashboard](meno1108.github.io/kindle_dash.html)
